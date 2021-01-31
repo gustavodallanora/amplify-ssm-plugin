@@ -1,0 +1,14 @@
+{
+  "name": "amplify-ssm-plugin",
+  "type": "util",
+  "commands": [
+    "version",
+    "help",
+    "get-version",
+    "put-version",
+    "get-parameter",
+    "put-parameter"
+
+  ],
+  "eventHandlers": []
+}

@@ -1,0 +1,25 @@
+{
+  "name": "amplify-ssm-plugin",
+  "version": "1.0.2",
+  "description": "Plugin to put the front end version into a parameter in AWS Parameter Store.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "aws-sdk": "2.834.0",
+    "ora": "^5.3.0"
+  },
+  "keywords": [
+    "parameter-store",
+    "ssm",
+    "amplify",
+    "aws"
+  ],
+  "author": "Gustavo Dalla Nora",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gustavodallanora/amplify-ssm-plugin.git"
+  }
+}
