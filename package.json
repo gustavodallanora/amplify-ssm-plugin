@@ -1,6 +1,6 @@
 {
   "name": "amplify-ssm-plugin",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Plugin to put the front end version into a parameter in AWS Parameter Store.",
   "main": "index.js",
   "scripts": {
