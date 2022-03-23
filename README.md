@@ -1,5 +1,4 @@
 # Amplify SSM Plugin
-> :warning: **This is an experimental version, DO NOT USE IT IN PRODUCTION environments just yet.**
 
 This plugin implements some API calls to [AWS SSM Parameter Store](https://aws.amazon.com/systems-manager/features/#Parameter_Store).
 
